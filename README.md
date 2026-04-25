@@ -51,16 +51,11 @@ El sistema se apoya en procesos automatizados y análisis inteligente para reduc
 📹 Video demostrativo del sistema en funcionamiento:
 
 Acceso Web para la visualización, análisis y envio personalizado de los resultados por email:
-
-<video width="800" controls>
-  <source src="./assets/Muestra ST-web.webm" type="video/webm">
-</video>
+[![Demo Scrapy Tool Web](./assets/thumbnail.png)](./assets/Muestra ST-web.webm)
 
 Muestra de recepción de los mismos:
+[![Demo Scrapy Tool Mail](./assets/thumbnail.png)](./assets/Muestra ST-mail.webm)
 
-<video width="800" controls>
-  <source src="./assets/Muestra ST-mail.webm" type="video/webm">
-</video>
 
 ### 🔹 Envío automatizado de resultados
 
