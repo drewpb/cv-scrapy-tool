@@ -57,7 +57,7 @@ Acceso Web para la visualización, análisis y envio personalizado de los result
 
 
 Muestra de recepción de los mismos:
-[![Demo Scrapy Tool Mail](./assets/thumbnail.png)](./assets/Muestra ST-mail.webm)
+[![Demo Scrapy Tool Mail](./assets/muestra_st_mail.webm)](./assets/muestra_st_mail.webm)
 
 
 ### 🔹 Envío automatizado de resultados
