@@ -2,7 +2,7 @@
 Explicacion CV definiendo el proyecto Scrapy Tool
 
 
-# 📌 Scrapy Tool – Job Data Automation System
+#   Scrapy Tool – Job Data Automation System
 
 Scrapy Tool es una herramienta desarrollada durante un periodo de prácticas profesionales orientada a la automatización de procesos de captación, tratamiento y análisis de información relacionada con ofertas de empleo.
 
@@ -10,7 +10,7 @@ El sistema tiene como objetivo transformar grandes volúmenes de datos no estruc
 
 ---
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
 * Captura automatizada de ofertas de empleo desde distintas fuentes
 * Estructuración y almacenamiento de datos en base a criterios definidos
@@ -24,7 +24,7 @@ El sistema tiene como objetivo transformar grandes volúmenes de datos no estruc
 
 ---
 
-## 🧠 Enfoque del sistema
+## Enfoque del sistema
 
 La herramienta está diseñada bajo una arquitectura modular que permite separar claramente las distintas fases del flujo de datos, facilitando su mantenimiento, escalabilidad y evolución futura.
 
@@ -32,7 +32,7 @@ El sistema se apoya en procesos automatizados y análisis inteligente para reduc
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Python
 * Pandas
@@ -44,7 +44,7 @@ El sistema se apoya en procesos automatizados y análisis inteligente para reduc
 
 ---
 
-## 📊 Demo
+## Demo
 
 ### 🔹 Visualización de resultados
 
@@ -53,11 +53,17 @@ El sistema se apoya en procesos automatizados y análisis inteligente para reduc
 (EN MANTENIMIENTO)
 
 Acceso Web para la visualización, análisis y envio personalizado de los resultados por email:
-[![Demo Scrapy Tool Web](./assets/muestra_st_web.mp4)](./assets/muestra_st_web.mp4)
+
+
+https://github.com/user-attachments/assets/5f2358c0-97ad-4c11-8035-2428adb998c2
+
 
 
 Muestra de recepción de los mismos:
-[![Demo Scrapy Tool Mail](./assets/muestra_st_mail.mp4)](./assets/muestra_st_mail.mp4)
+
+
+https://github.com/user-attachments/assets/02e8afa4-5e57-4ece-82ac-1e9cbede09ea
+
 
 
 ### 🔹 Envío automatizado de resultados
@@ -66,6 +72,6 @@ En este caso la muestra sería similar al video previo pero enviando los resulta
 
 ---
 
-## ⚠️ Nota
+## ¡! Nota
 
 Este proyecto forma parte de un entorno profesional de prácticas. Parte de los detalles de implementación han sido omitidos de forma intencionada para mantener confidencialidad técnica.
