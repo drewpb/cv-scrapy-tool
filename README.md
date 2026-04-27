@@ -50,6 +50,8 @@ El sistema se apoya en procesos automatizados y análisis inteligente para reduc
 
 📹 Video demostrativo del sistema en funcionamiento:
 
+(EN MANTENIMIENTO)
+
 Acceso Web para la visualización, análisis y envio personalizado de los resultados por email:
 [![Demo Scrapy Tool Web](./assets/muestra_st_web.mp4)](./assets/muestra_st_web.mp4)
 
@@ -60,7 +62,7 @@ Muestra de recepción de los mismos:
 
 ### 🔹 Envío automatizado de resultados
 
-En este caso la muestra sería similar al video previo pero enviando los resultados de los ultimos X dias, N veces por semnana por cron job.
+En este caso la muestra sería similar al video previo pero enviando los resultados de los ultimos X dias, N veces por semana por cron job.
 
 ---
 
